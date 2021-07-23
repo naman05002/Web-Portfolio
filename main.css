@@ -30,6 +30,20 @@ body {
     margin-right: auto;
     
 }
+h1{
+    font-family: 'Fredoka One', cursive;
+    color: #cff4d2;
+}
+h2{
+    font-family: 'Fredoka One', cursive;
+    color: #cff4d2;
+}h3{color: #cff4d2;
+    font-family: 'Fredoka One', cursive;
+}h4{color: #cff4d2;
+    font-family: 'Fredoka One', cursive;
+}h5{color: #cff4d2;
+    font-family: 'Fredoka One', cursive;
+}
 
 #profilecard{
     margin-bottom: 30px;
@@ -42,7 +56,10 @@ body {
 #myskills{
     margin-top: 50px;
 }
-
+div{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
