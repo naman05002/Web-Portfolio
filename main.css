@@ -1,0 +1,59 @@
+.iconimage{
+    max-height: 50px;
+    max-width: 50px;
+}
+.contacticons{
+    max-height: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10PX;
+}
+.contactme{
+    padding-bottom: 20px;
+}
+body {
+    color: #cff4d2;
+    background: linear-gradient(-45deg, #205072, #329d9c, #56c596, #7be495);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+#navigator{
+    margin-bottom: 30px;
+    background-color: #cff4d2;
+}
+.carouselimage{
+    max-width: 50%;
+    max-height: 200px;
+    margin-bottom: 100px;
+    padding-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#profilecard{
+    margin-bottom: 30px;
+    padding-top: 20px;
+    
+}
+#profile-image{
+    border-radius: 50%;
+}
+#myskills{
+    margin-top: 50px;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+#contactdiv{
+    padding-bottom: 30px;
+}
